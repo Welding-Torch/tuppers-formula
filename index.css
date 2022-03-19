@@ -1,6 +1,6 @@
 body {
     font-family:"Lucida Console", Monaco, monospace;
-    background: #ddd;
+    background-image: linear-gradient(red, yellow);
     margin:40px auto;
     max-width:80%;
     line-height:1.6;
