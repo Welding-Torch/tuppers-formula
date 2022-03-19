@@ -9,6 +9,23 @@ body {
 }
 
 .button {
+  background-color: #fff8ed; /* White-ish */
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 24px;
+}
+
+.button2 {background-color: #008CBA; color:white;} /* Blue */
+
+/*
+.button {
   background-color: #4064ac; /* That nice UI blue */
 
   color: white;
@@ -19,7 +36,7 @@ body {
 }
 
 .button2 {background-color: #5240ac;} /* Blue */
-
+*/
 @media (max-width: 800px) {
     body {
         max-width:97%;
